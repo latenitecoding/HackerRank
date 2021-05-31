@@ -6,4 +6,4 @@ Notes:
 
     Folders use SNAKE_CASE notation as a personal convention. It reads well but can still be imported if needed.
 
-    The _template.py file is intended to be used as an initial template for any new solution.
+    The _solution.py file is intended to be used as an initial template for any new solution.
